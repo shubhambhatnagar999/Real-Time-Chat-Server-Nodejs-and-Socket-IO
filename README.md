@@ -68,7 +68,7 @@ socketio-chat/
 ---
 
 ## License
-MIT — do whatever you want, but no warranty.
+This project is open-source and available under the MIT License.
 
 ---
 
